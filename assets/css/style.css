@@ -1,0 +1,17 @@
+/** Contacts **/
+.contacts {
+  display: flex;
+  background: #fefee2;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+.cont {
+  width: 40px;
+}
+.gmail {
+  height: 40px;
+  width: 40px;
+}
+/** Contacts **/
